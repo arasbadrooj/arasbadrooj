@@ -20,6 +20,6 @@ I'm a **Economic Geology Master student** at Kharazmi University.
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00A4CC?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aras-Badrooj)
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aradfarahani&show_icons=true&theme=auto&hide_border=true)](https://github.com/arasbadrooj) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradfarahani&layout=compact&theme=auto&hide_border=true)](https://github.com/arasbadrooj)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arasbadrooj&show_icons=true&theme=auto&hide_border=true)](https://github.com/arasbadrooj) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arasbadrooj&layout=compact&theme=auto&hide_border=true)](https://github.com/arasbadrooj)
 
 ![Profile views](https://komarev.com/ghpvc/?username=arasbadrooj)
